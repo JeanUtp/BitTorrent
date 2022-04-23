@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<HTML>
+  <head>
+  <title>BitTorrent</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  </head>
+  <body>
+     <br>
+         <div class="container">
+            <br>
+            <a class="btn btn-primary" href="index.php" role="button">Regresar</a><h3 class="display-4">Lenguaje Java</h3><br>
+            <div class="row" >
+   
+                <div class="col-3">
+                     <img src="https://www.lawebdelprogramador.com/pdf/files/1532010452_fundamentos_de_programacin_en_java-61.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1PLXym9IoxepJL5tGwAd181iDEJNxgyLi&export=download">Fundamentos de Java (Descargar)</a>
+
+                </div>
+                <div class="col-3">
+                    <img src="https://images-na.ssl-images-amazon.com/images/I/91lW7XndB2L.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1aQVm7WIQ7linDzYG_L2VGn-0QiBvLSPK&export=download">Programar en Java (Descargar)</a>
+
+                </div>
+                <div class="col-3">
+                    
+                </div>
+                <div class="col-3">
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</HTML>

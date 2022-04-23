@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<HTML>
+  <head>
+  <title>BitTorrent</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body>
+        <br>
+         <div class="container">
+            <br>
+            <a class="btn btn-primary" href="index.php" role="button">Regresar</a><h3 class="display-4">Lenguaje MySQL</h3><br>
+            <div class="row" >
+   
+                <div class="col-3">
+                     <img src="https://www.lawebdelprogramador.com/pdf/files/1588164642_fundamentos-de-mysql_iiicorte.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1c63USApgpeR0tGvItgarkkG9c6VKQirs&export=download">Fundamentos MySQL (Descargar)</a>
+
+                </div>
+                <div class="col-3">
+                    <img src="https://www.lawebdelprogramador.com/pdf/files/1517970635_1517914917_MySql-La%20biblia%20de%20mysql.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1_x6P0yySwW-daOEPJLYzWbLunNx66MsG&export=download">Biblia de MySQL (Descargar)</a>
+
+                </div>
+                <div class="col-3">
+                    
+                </div>
+                <div class="col-3">
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</HTML>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<HTML>
+  <head>
+  <title>BitTorrent</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  </head>
+  <body>
+  <br>
+         <div class="container">
+            <br>
+            <a class="btn btn-primary" href="index.php" role="button">Regresar</a><h3 class="display-4">Lenguaje C</h3><br>
+            <div class="row" >
+   
+                <div class="col-3">
+                     <img src="https://cdn.slidesharecdn.com/ss_thumbnails/02-210922154601-thumbnail-4.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1SIvYI9Ki8TucbR8QpyrgfqNQtfT8Sh96&export=download">Lenguaje C (Descargar)</a>
+
+                </div>
+                <div class="col-3">
+                    <img src="https://www.ebookelo.com/images/cover/38403.jpg"
+                         height="340" width="230" style="border: 1px solid gray;"></img><br>
+                    <a href="https://drive.google.com/uc?id=1-jME8KbFLkuiTTJUqdtcX9sgAM0AQaZI&export=download">Programación C (Descargar)</a>
+                </div>
+                <div class="col-3">
+                    
+                </div>
+                <div class="col-3">
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</HTML>
